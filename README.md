@@ -1,2 +1,2 @@
 # wsj_preprocessing
-prepreocess wsj data to numpy
+preprocess wsj data to numpy
